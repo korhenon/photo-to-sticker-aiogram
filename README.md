@@ -6,7 +6,7 @@ This bot can convert your photo to telegram sticker
 
 pip3 install -r requirements.txt
 
-__insert your bot token to config.py__
+__insert your bot's token to config.py__
 
 ## Commands
 
