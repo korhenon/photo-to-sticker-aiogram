@@ -4,9 +4,7 @@ This bot can convert your photo to telegram sticker
 
 ## Setup
 
-'''bash
 pip3 install -r requirements.txt
-'''
 
 ## Commands
 
